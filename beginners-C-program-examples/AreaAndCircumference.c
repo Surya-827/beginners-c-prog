@@ -4,6 +4,7 @@
 int main()
 {
     float r, a ,c;
+    /*I/O Format Goes here*/
     printf("enter radius :\n");
     scanf("%f", &r);
     a = 3.14*r*r;
