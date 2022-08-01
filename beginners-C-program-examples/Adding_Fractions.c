@@ -4,6 +4,7 @@ int main(){
 	int numerator1, numerator2, denominator1, denominator2, 
 num_result, denom_result ;
 	/* Read each fraction */
+	/*I/O Format Goes here*/
 	printf("Please provide the first numerator:\n");
 	scanf("%d",&numerator1);
 	printf("Please provide the first denominator:\n");
