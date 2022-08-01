@@ -6,7 +6,7 @@
 int main(){
 
   int num, mask = 0x1;
-
+/*I/O Format Goes here*/
   printf("Enter a number: ");
   scanf("%d", &num);
 
