@@ -4,6 +4,7 @@
 // Function that performs the conversion
 double convertTemp(double initValue, int initScale, int finalScale){
     double finalValue;
+    /*I/O Format Goes here*/
     switch(initScale){
         // Celsius
         case 1:
