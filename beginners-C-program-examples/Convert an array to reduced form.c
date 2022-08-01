@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	/*I/O Format Goes here*/
 	int num;scanf("%d",&num);
 	while(num--)
 	{
