@@ -7,6 +7,7 @@ int main()
 {
     char hex[20];
     int n,c;
+    /*I/O Format Goes here*/
     printf("**----Program to Convert Decimal and Hexadeciaml Vice Versa----***\n\n");
     printf("Choose Your Choice: \n");
     printf("1.Decimal to Hexadecimal:\n");
