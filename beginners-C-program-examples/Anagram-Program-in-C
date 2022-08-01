@@ -7,7 +7,7 @@ int checkAnagram(char *str1, char *str2);
 int main()
 {
     char str1[100], str2[100];
-    
+    /*I/O Format Goes here*/
     printf("Function : whether two given strings are anagram :");
     printf("\nExample : pears and  spare, stone and tones :");
     
