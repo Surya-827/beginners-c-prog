@@ -11,7 +11,7 @@ int main()
 	
 	printf("enter the size: ");
 	scanf("%d",&n);
-	
+	/*I/O Format Goes here*/
 	printf("enter the numbers: \n");
 	for(i=0;i<n;i++)
 	{
