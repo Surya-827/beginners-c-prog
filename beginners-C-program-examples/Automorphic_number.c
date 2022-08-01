@@ -4,6 +4,7 @@
 int main() {
   int num, sqr, temp, last;
   int n = 0;
+  /*I/O Format Goes here*/
   printf("Enter a number \n");
   scanf("%d", & num);
   sqr = num * num; //calculating square of num
