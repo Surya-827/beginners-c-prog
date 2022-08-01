@@ -6,6 +6,7 @@
   int main() {
     int a, b, c;
     char ch;
+    /*I/O Format Goes here*/
     printf("enter two number\n");
     scanf("%d%d", & a, & b);
     fflush(stdin);
