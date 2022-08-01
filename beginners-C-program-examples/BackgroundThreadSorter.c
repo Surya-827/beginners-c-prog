@@ -6,6 +6,7 @@
  * This program demonstrates usage of pthreads, mutexes, qsort(in built C sorting function).
  * The array used is an array of structures. 
  */
+/*I/O Format Goes here*/
 
 #include <stdio.h>
 #include <stdlib.h>
