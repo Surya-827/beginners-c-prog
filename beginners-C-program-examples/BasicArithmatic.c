@@ -4,6 +4,7 @@
 
 int main() {
    int number1, number2, addition, subtraction, multiplication, division, modulo;
+   /*I/O Format Goes here*/
    printf("Enter two numbers :\n");
    scanf("%d%d", & number1, & number2);
    addition = number1 + number2;
