@@ -33,6 +33,7 @@ void traversing(){
 }
 
 void deletion(){
+    /*I/O Format Goes here*/
     printf("ENTER THE POSITION OF THE ELEMENT TO BE DELETED");
     scanf("%d",&position);
     position=position-1;
